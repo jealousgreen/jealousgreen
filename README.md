@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Hello world, I'm jealousgreen" width="600">
+</p>
+
 ## Hi there 👋
 
 I'm a **Software Engineering student** and a **PL/SQL Developer** working with relational databases. 
@@ -7,11 +11,6 @@ I'm a **Software Engineering student** and a **PL/SQL Developer** working with r
 - 💼 Working as a PL/SQL Developer
 - 🗄 Focused on database development and optimization
 - 🔐 Interested in information security and cryptography
-
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jealousgreen&show_icons=true)
 
 ---
 <!--
