@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I'm a **Software Engineering student** and a **PL/SQL Developer** working with relational databases. 
+
+## 🎓 About Me
+- 🎓 Software Engineering student
+- 💼 Working as a PL/SQL Developer
+- 🗄 Focused on database development and optimization
+- 🔐 Interested in information security and cryptography
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jealousgreen&show_icons=true)
+
+---
 <!--
 **jealousgreen/jealousgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
