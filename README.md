@@ -1,4 +1,6 @@
-
+<p align="left">
+  <img src="./banner2.png" alt="Hello world, I'm jealousgreen" width="700">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=17&pause=1000&color=0BF700&width=435&lines=Hello+world%2C+I'm+jealousgreen)](https://git.io/typing-svg)
 
